@@ -1,4 +1,4 @@
-package src.practice_basics.ArithmeticOperations;
+package src.practicebasics.arithmeticoperations;
 
 public class ArithmeticOperations{
     public static void main(String[] args){

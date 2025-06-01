@@ -1,4 +1,4 @@
-package src.practice_basics.SwapVariables;
+package src.practicebasics.swapvariables;
 
 public class SwapVariables {
     public static void main(String[] args) {

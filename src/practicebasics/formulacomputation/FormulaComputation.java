@@ -1,4 +1,4 @@
-package src.practice_basics.FormulaComputation;
+package src.practicebasics.formulacomputation;
 
 public class FormulaComputation {
     public static void main(String[] args){

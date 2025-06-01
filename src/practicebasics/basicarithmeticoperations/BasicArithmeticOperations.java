@@ -1,4 +1,4 @@
-package src.practice_basics.BasicArithmeticOperations;
+package src.practicebasics.basicarithmeticoperations;
 
 import java.util.Scanner;
 

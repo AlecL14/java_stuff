@@ -1,4 +1,4 @@
-package src.practice_basics.TwoNumSum;
+package src.practicebasics.twonumsum;
 
 public class TwoNumSum{
     public static void main(String[] args){
