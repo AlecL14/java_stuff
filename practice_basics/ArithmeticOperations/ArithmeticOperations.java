@@ -1,6 +1,6 @@
-package practice_basics.arithmetic_oper;
+package practice_basics.ArithmeticOperations;
 
-public class arithmetic_operations{
+public class ArithmeticOperations{
     public static void main(String[] args){
         System.out.println(-5 + 8 * 6);
         System.out.println((55 + 9) % 9);

@@ -1,8 +1,8 @@
-package practice_basics.product_twoNum;
+package practice_basics.TwoNumProduct;
 
 import java.util.Scanner;
 
-public class product_twoNum{
+public class TwoNumProduct{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

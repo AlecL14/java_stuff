@@ -1,6 +1,6 @@
-package practice_basics.Sum_TwoNum;
+package practice_basics.TwoNumSum;
 
-public class Sum_TwoNum{
+public class TwoNumSum{
     public static void main(String[] args){
         System.out.println(74 + 36);
     }

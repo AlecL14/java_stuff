@@ -1,6 +1,6 @@
-package practice_basics.Hello_NamePrinter;
+package practice_basics.HelloNamePrinter;
 
-public class Hello_NamePrinter{
+public class HelloNamePrinter{
     public static void main(String args[]){
         System.out.println("Hello" + "\n" + "Aldric Lim");
     }
