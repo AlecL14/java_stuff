@@ -1,4 +1,4 @@
-package practice_basics.ExpressionEvaluation;
+package src.practice_basics.ExpressionEvaluation;
 
 public class ExpressionEvaluation{
     public static void main(String[] args){

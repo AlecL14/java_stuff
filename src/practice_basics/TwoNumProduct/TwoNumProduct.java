@@ -1,4 +1,4 @@
-package practice_basics.TwoNumProduct;
+package src.practice_basics.TwoNumProduct;
 
 import java.util.Scanner;
 

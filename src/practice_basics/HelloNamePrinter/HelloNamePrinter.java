@@ -1,4 +1,4 @@
-package practice_basics.HelloNamePrinter;
+package src.practice_basics.HelloNamePrinter;
 
 public class HelloNamePrinter{
     public static void main(String args[]){
