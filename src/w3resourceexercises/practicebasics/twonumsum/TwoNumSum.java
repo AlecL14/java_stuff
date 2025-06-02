@@ -1,4 +1,4 @@
-package src.practicebasics.twonumsum;
+package src.w3resourceexercises.practicebasics.twonumsum;
 
 public class TwoNumSum{
     public static void main(String[] args){

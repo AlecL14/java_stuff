@@ -1,4 +1,4 @@
-package src.practicebasics.basicarithmeticoperations;
+package src.w3resourceexercises.practicebasics.basicarithmeticoperations;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package src.practicebasics.expressionevaluation;
+package src.w3resourceexercises.practicebasics.expressionevaluation;
 
 public class ExpressionEvaluation{
     public static void main(String[] args){

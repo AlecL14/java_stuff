@@ -1,4 +1,4 @@
-package src.practicebasics.formulacomputation;
+package src.w3resourceexercises.practicebasics.formulacomputation;
 
 public class FormulaComputation {
     public static void main(String[] args){
